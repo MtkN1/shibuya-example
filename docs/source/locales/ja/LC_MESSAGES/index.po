@@ -1,0 +1,39 @@
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-02-06 15:38+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/index.rst:2
+msgid "Welcome to Lumache's documentation!"
+msgstr "Lumache のドキュメントへようこそ!"
+
+#: ../../source/index.rst:4
+msgid "**Lumache** (/lu'make/) is a Python library for cooks and food lovers that creates recipes mixing random ingredients. It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_ and offers a *simple* and *intuitive* API."
+msgstr "**Lumache** (/lu'make/) は、料理人と食べ物好きのための Python ライブラリで、ランダムな食材を組み合わせてレシピを作成します。 `Open Food Facts database <https://world.openfoodfacts.org/>`_ からデータを取得し、*シンプル* で *直感的* な API を提供します。"
+
+#: ../../source/index.rst:9
+msgid "Check out the :doc:`usage` section for further information, including how to :ref:`installation` the project."
+msgstr "プロジェクトの :ref:`installation` 方法など、詳細については、:doc:`usage` セクションを確認してください。"
+
+#: ../../source/index.rst:14
+msgid "This project is under active development."
+msgstr "このプロジェクトは活発に開発されています。"
+
+#: ../../source/index.rst:17
+msgid "Contents"
+msgstr "目次"
+

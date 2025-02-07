@@ -1,0 +1,51 @@
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-02-06 15:38+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/generated/lumache.rst:2
+msgid "lumache"
+msgstr "lumache"
+
+#: lumache:1 of
+msgid "Lumache - Python library for cooks and food lovers."
+msgstr "Lumache - 料理人と食べ物好きのための Python ライブラリ。"
+
+#: ../../source/generated/lumache.rst:8
+msgid "Functions"
+msgstr "関数"
+
+#: ../../source/generated/lumache.rst:12:<autosummary>:1
+msgid ":py:obj:`get_random_ingredients <lumache.get_random_ingredients>`\\ \\(\\[kind\\]\\)"
+msgstr ":py:obj:`get_random_ingredients <lumache.get_random_ingredients>` \\(\\[kind\\]\\)"
+
+#: ../../source/generated/lumache.rst:12:<autosummary>:1
+msgid "Return a list of random ingredients as strings."
+msgstr "ランダムな食材のリストを文字列として返します。"
+
+#: ../../source/generated/lumache.rst:14
+msgid "Exceptions"
+msgstr "例外"
+
+#: ../../source/generated/lumache.rst:17:<autosummary>:1
+msgid ":py:obj:`InvalidKindError <lumache.InvalidKindError>`\\"
+msgstr ":py:obj:`InvalidKindError <lumache.InvalidKindError>`\\"
+
+#: ../../source/generated/lumache.rst:17:<autosummary>:1
+msgid "Raised if the kind is invalid."
+msgstr "種類が無効な場合に発生します。"
+
